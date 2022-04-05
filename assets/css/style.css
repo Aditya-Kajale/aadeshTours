@@ -46,7 +46,7 @@ a {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding: 7em 0; }
+  padding: 12.5em 0; }
   .probootstrap-cover .overlay {
     position: absolute;
     background: rgba(0, 0, 0, 0.5);
@@ -93,7 +93,7 @@ a {
 
 .navbar-brand {
   text-transform: uppercase;
-  letter-spacing: .3em; }
+  letter-spacing: .2em; }
 
 .navbar-toggler span i {
   font-size: 30px; }
@@ -109,10 +109,10 @@ a {
       background: rgba(0, 0, 0, 0.6); } }
   .probootstrap_navbar .nav-item .nav-link {
     padding: 1.6em 1em;
-    font-size: 12px;
+    font-size: 17px;
     text-transform: uppercase;
     letter-spacing: .1em;
-    font-weight: 400; }
+    font-weight: 500; }
     @media (max-width: 991px) {
       .probootstrap_navbar .nav-item .nav-link {
         padding: .5em 0; } }
