@@ -288,7 +288,7 @@ a {
           padding-right: 15px; } }
 
 .probootstrap_section {
-  padding: 7em 0;
+  padding-top: 6em;
   float: left;
   width: 100%; }
   .probootstrap_section.bg-light {
