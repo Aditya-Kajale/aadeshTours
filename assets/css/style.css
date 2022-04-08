@@ -42,6 +42,21 @@ a {
   -o-transition: .3s all ease;
   transition: .3s all ease; }
 
+  .nav-bg{
+    background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 10em 0; 
+  }
+  .nav-bg .nav-overlay {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 83%; 
+  }
+
 .probootstrap-cover {
   background-repeat: no-repeat;
   background-position: center center;
@@ -53,7 +68,8 @@ a {
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0; }
+    bottom: 0; 
+  }
   .probootstrap-cover a:hover {
     color: #fff; }
   .probootstrap-cover h2 {
@@ -461,6 +477,11 @@ a {
   -o-transition: .3s all ease;
   transition: .3s all ease;
   text-align: center; }
+
+  .owl-carousel .probootstrap-slide{
+    padding:0;
+  }
+  
   .owl-carousel .probootstrap-slide em {
     display: block;
     position: absolute;
