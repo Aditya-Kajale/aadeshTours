@@ -113,6 +113,7 @@ body {
     color: #e74c3c;
     font-size: 20px;
     font-weight: 400;
+    height: 5em;
   }
   .post-module .post-content .description {
     display: none;
